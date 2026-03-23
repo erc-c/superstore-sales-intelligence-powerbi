@@ -3,7 +3,7 @@ Superstore Sales Intelligence Dashboard
 Executive decision-support dashboard analyzing $2.3M in global retail sales data built in Power BI.
 
 Preview
-![Executive Overview](2_overview.jpeg)
+![Executive Overview](2_overviiew.jpeg)
 
 Pages
 - Executive Overview - KPIs, sales trend, top products by revenue
